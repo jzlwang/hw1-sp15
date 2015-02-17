@@ -167,12 +167,12 @@ p.copyright {
 
 .circular {
   float: left;
-  margin-top: 40px;
-  width: 100px;
-  height: 100px;
+  margin-top: 30px;
+  width: 400px;
+  height: 400px;
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
-  background-image: url(banner-bg.jpg);
+  background-image: url('https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/1380180_10205017751866387_3912546311153467746_n.jpg?oh=efc4481a7a7c3b3d38a6df0401d1cae7&oe=55870F59&__gda__=1431689574_b3996006889efdc039b9bb7f5505f812');
   background-size: cover;
 }

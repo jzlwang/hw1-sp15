@@ -1,0 +1,11 @@
+class PagesController < ApplicationController
+
+  def home
+  end
+
+  def about
+    @age = 9
+    @major = 'Memeology and Meme cultures - Intractable problems with meme transformations'
+  end
+
+end
